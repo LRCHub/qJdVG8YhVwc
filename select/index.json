@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Rags 2 Riches（feat. Watson）",
+  "base_artist": "Hawo Beats",
+  "createdAt": "2026-04-03T14:37:44.981699Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rags 2 Riches",
+      "artist": "Lil' Flip feat. Will-Lean",
+      "has_synced": false,
+      "path": "select/01_Rags_2_Riches_Lil'_Flip_feat._Will-Lean.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rags 2 Riches",
+      "artist": "Lil' Flip",
+      "has_synced": true,
+      "path": "select/02_Rags_2_Riches_Lil'_Flip.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rags 2 Riches (featuring Will-Lean)",
+      "artist": "Lil' Flip",
+      "has_synced": true,
+      "path": "select/03_Rags_2_Riches_(featuring_Will-Lean)_Lil'_Flip.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rags to Riches (Live)",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/04_Rags_to_Riches_(Live)_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rags to Riches",
+      "artist": "Trick Daddy",
+      "has_synced": false,
+      "path": "select/05_Rags_to_Riches_Trick_Daddy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rags to Riches (feat. Tre+6)",
+      "artist": "Trick Daddy",
+      "has_synced": false,
+      "path": "select/06_Rags_to_Riches_(feat._Tre+6)_Trick_Daddy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rags to Riches",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/07_Rags_to_Riches_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Look Good In Rags",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/08_You_Look_Good_In_Rags_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rags And Old Iron - 2004 Remastered Version",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/09_Rags_And_Old_Iron_-_2004_Remastered_Version_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rags and Old Iron (2004 Remaster)",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/10_Rags_and_Old_Iron_(2004_Remaster)_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Riches To Rags",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/11_Riches_To_Rags_Europe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Plants and Rags",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/12_Plants_and_Rags_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glad Rags",
+      "artist": "Tygers of Pan Tang",
+      "has_synced": true,
+      "path": "select/13_Glad_Rags_Tygers_of_Pan_Tang.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Princess In Rags (The Cult)",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/14_Princess_In_Rags_(The_Cult)_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If Love Is A Red Dress (Hang Me In Rags)",
+      "artist": "Maria McKee",
+      "has_synced": true,
+      "path": "select/15_If_Love_Is_A_Red_Dress_(Hang_Me_In_Rags)_Maria_McKee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rags 2 Riches (feat. Watson)",
+      "artist": "Hawo Beats",
+      "has_synced": false,
+      "path": "select/pl_01_Rags_2_Riches_(feat._Watson)_Hawo_Beats.txt"
+    }
+  ]
+}
